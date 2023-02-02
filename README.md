@@ -14,7 +14,7 @@ After merging all the datasets we continue doing some data exploration and analy
 
 ![sql](https://user-images.githubusercontent.com/113483652/216460267-b853c8ee-d731-4bb0-8225-ba7cc7400f87.png)
 
-Once we had the analysis done in SQL, we move the result to Tableau to elaborate on some data visualization with the data.
+Once we had the analysis done in SQL, we move the results to Tableau to elaborate on some data visualization.
 
 ![dataviz](https://user-images.githubusercontent.com/113483652/216460742-6be288da-fe68-45c5-850a-3fcf731372af.png)
 
