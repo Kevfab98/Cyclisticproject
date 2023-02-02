@@ -1,23 +1,36 @@
 #Cyclistic Project
 
+Project Overview: 
+ * Perform data cleaning on the datasets of Cyclistic.
+ * Perform analysis of the data to gain insights. 
+ * Elaborate Data Visualizations with the results of the analysis.
+
+Project Objective: Design marketing strategies aimed at converting casual riders into annual members.
+
+##Introduction
 In this analysis, we will handle the data of the company Cyclistic in the year 2022. This data includes the number of rides, the start and end date and time of each ride, and the station, and station id.
 
 This data was divided into 12 datasets, one for each month of the year.
 
+###Step 1: Cleaning
 The first step was to clean each dataset in Excel, we remove all the blank spaces, set the columns in the right format, and perform calculations such as the day of the week of each ride and the duration time.
 
 ![Picture1](https://user-images.githubusercontent.com/113483652/216459467-2f7bd6d0-6c74-4671-a20c-e63fb3f1ad08.png)
 
+###Step 2: Prepare
 Then we imported all the datasets to PostgreSQL and merged them all into one single table with more than 4 million rows.
 
+###Step 3: Analyze
 After merging all the datasets we continue doing some data exploration and analysis running some queries on the data.
 
 ![sql](https://user-images.githubusercontent.com/113483652/216460267-b853c8ee-d731-4bb0-8225-ba7cc7400f87.png)
 
+###Step 4: Share
 Once we had the analysis done in SQL, we move the results to Tableau to elaborate on some data visualization.
 
 ![dataviz](https://user-images.githubusercontent.com/113483652/216460742-6be288da-fe68-45c5-850a-3fcf731372af.png)
 
+###Step 5: Act
 After performing the analysis and the data visualizations, we reach the follogin conclusions: 
 
  - Member riders use Cyclistic as a means of transportation, in other words, they use it to move from their home to their work or another destination. 
