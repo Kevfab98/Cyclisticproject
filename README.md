@@ -1,2 +1,2 @@
 # Cyclistic Project
-<title> Cyclistic Project</>
+Cyclistic Project
