@@ -39,7 +39,7 @@ After performing the analysis and the data visualizations, we reach the follogin
  
  And with those conclusions we give these recommendations:
  
- - A Summer Membership: as we saw in the analysis the usage of casual members skyrockets during the summer so creating a new type of membership for the summer will catch
+ - Summer Membership: as we saw in the analysis the usage of casual members skyrockets during the summer so creating a new type of membership for the summer will catch
  the attention of casual riders.
  
  - Weekend Membership: the analysis also shows that casual riders use Cyclistic more during the weekend, so a membership for the weekend will be the perfect option for casual riders that enjoy recreative rides. 
